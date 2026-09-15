@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sable",
+      "hasCanvas": false,
+      "bodyTextLen": 1085,
+      "bodyTextHash": "b196cb3308e6feed645cc0108589702ee0107975bacd832ee21c9276c5c2ea91",
+      "bodyTextPrefix": "06:42 SABLE GPU ON-DEVICE · MINICPM5-2B Sable Self-hosted assist",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sable",
+      "hasCanvas": false,
+      "bodyTextLen": 572,
+      "bodyTextHash": "153de43ade75a4f0f305815af3a2f8501f76f537807497e2609a0b6caa65162e",
+      "bodyTextPrefix": "06:42 SABLE GPU ON-DEVICE · MINICPM5-2B Sable Self-hosted assist",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}

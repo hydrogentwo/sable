@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Sable",
+      "hasCanvas": false,
+      "bodyTextLen": 1085,
+      "bodyTextHash": "f955009bdcfb6dbd7391376e25fc075766811c8aef30643b5a93ab6c78340b8e",
+      "bodyTextPrefix": "06:41 SABLE GPU ON-DEVICE · MINICPM5-2B Sable Self-hosted assist",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Sable",
+      "hasCanvas": false,
+      "bodyTextLen": 572,
+      "bodyTextHash": "2992ef9e058cfbd1f644351791c83cfbed184918e25d833f55000529df6b64a9",
+      "bodyTextPrefix": "06:41 SABLE GPU ON-DEVICE · MINICPM5-2B Sable Self-hosted assist",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
